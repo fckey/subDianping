@@ -10,9 +10,9 @@ spring:
     password: admin
 # redis
   redis:
-    host: 175.178.252.65
+    host: ********
     port: 6379
-    password: fangshaolei123
+    password: **********
     lettuce:
       pool:
         max-active: 10
